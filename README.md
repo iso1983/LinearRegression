@@ -13,6 +13,12 @@ m means slope, slope = rise / run and rise means Vertical axis and run is horizo
 
 b means intercept, means a point on the Y axis, the starting point from where we will start drawing the line at the end <br>
 
+There are 4 steps to draw a graph using linear regression: <br>
+1) Identify the slope and intercept <br>
+2) Draw / Mark the y value of intercept
+3) Use the slope to rise and run from the y intercept(b). Mark a point at this location
+4) Connect the points from y intercepy(b) to form a line
+
 If you are given this below: <br>
 
 ![image](https://github.com/iso1983/LinearRegression/assets/40856827/ccabbfbd-648b-4d70-bda4-7e4fc747e27d)

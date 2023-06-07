@@ -5,7 +5,7 @@ MachineLearning
 I have some tiny data to represent how linear equation works:
 
 Basically all we need to know is the linear equation formula, which is: \
-**y = mx + b** \
+**y = mx + b** 
 
 y and x are any independent variables, x can be any value on the x axis and y can be any value on the Y axis \
 

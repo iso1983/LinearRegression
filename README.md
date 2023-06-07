@@ -44,6 +44,6 @@ And now we can start drawing our line starting from the intercept point(b) that 
 
 
 
-**Note that if the slope is 13 let's say its run value will be 1 , why? remember any whole number has a denominator of 1 so the slope becomes**
+**Note that if the slope is 13 let's say its run value will be 1 , why? remember any whole number has a denominator of 1 so the slope becomes:**
 
 **m = 13 / 1**

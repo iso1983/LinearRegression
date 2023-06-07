@@ -25,7 +25,7 @@ so to draw the graph, we need to first use the b value. Is it minus? Yes so we g
 
 so we moved to -3 on the Y axis <br>
 
-Next we need to look at the slope value and we said that, slope = m = rise / run and rise is Y axis(vertical points) and run means horizontal axis.So since m = 2 / 3 we need to move +2 from -3 where the intercept point is, so if we move from -3 to 2 points upwards we get to -1  <br>
+Next we need to look at the slope value and we said that, slope = m = rise / run and rise is Y axis(vertical points) and run means horizontal axis.So since m = 2 / 3 we need to move +2(rise value of slope(m)) from -3 where the intercept point is, so if we move from -3 to 2 points upwards we get to -1  <br>
 
 Next from -1,we now need to apply run, means move on horizontal line and ,run value is +3 so we move to the right 3 points and end up on +3 on the X axis <br>
 
